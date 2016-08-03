@@ -1,6 +1,6 @@
 {
   "name": "Cfinding",
   "tagline": "Johnson Circuit Finding Algorithm",
-  "body": "### Welcome to #cfinding Page\r\nThe Johnson Circuit Finding Algorithm\r\n\r\nThis an implementation of the Johnson's circuit finding algorithm [1]. The code is a translation from Java code to C++ of the Algorithm avaiable in :  http://normalisiert.de\r\n\r\n[Johnson75] (http://www.cs.tufts.edu/comp/150GA/homeworks/hw1/Johnson%2075.PDF):  Donald B. Johnson, Finding all the elementary circuits of a directed graph, SIAM Journal on Computing, 1975.",
+  "body": "### Welcome to #cfinding Page\r\nThe Johnson Circuit Finding Algorithm\r\n\r\nThis an implementation of the Johnson's circuit finding algorithm [*]. The code is a translation from Java code to C++ of the Algorithm avaiable in :  http://normalisiert.de\r\n\r\n* [Johnson75] (http://www.cs.tufts.edu/comp/150GA/homeworks/hw1/Johnson%2075.PDF):  Donald B. Johnson, Finding all the elementary circuits of a directed graph, SIAM Journal on Computing, 1975.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
